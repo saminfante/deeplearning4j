@@ -16,6 +16,8 @@
  * SPDX-License-Identifier: Apache-2.0
  ******************************************************************************/
 
+@Library('skymind@bugfix/modules-to-build') _
+
 /*
     To redefine some job/run parameters,
     please provide arguments to jenkinsBuilder step.
