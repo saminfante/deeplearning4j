@@ -45,7 +45,7 @@
         <jumpy.compile.skip>false</jumpy.compile.skip>
         <jumpy.version>0.2.4</jumpy.version>
     </properties>
-    
+
 
     <dependencies>
         <dependency>
