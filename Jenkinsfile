@@ -16,7 +16,7 @@
  * SPDX-License-Identifier: Apache-2.0
  ******************************************************************************/
 
-@Library('skymind@bugfix/modules-to-build') _
+@Library('skymind@bugfix/maven-local-cache') _
 
 /*
     To redefine some job/run parameters,
