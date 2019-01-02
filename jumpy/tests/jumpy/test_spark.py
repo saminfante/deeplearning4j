@@ -13,15 +13,12 @@ import numpy as np
 import pyspark
 import pytest
 
-
-
 SparkConf = autoclass('org.apache.spark.SparkConf')
 SparkContext = autoclass('org.apache.spark.api.java.JavaSparkContext')
 
 
-
 class TestSparkConverters(object):
-    
+
     @pytest.fixture(scope='module')
     def java_sc(self):
         config = SparkConf()
@@ -51,7 +48,6 @@ class TestSparkConverters(object):
 
         for d1, d2 in zip(data, data2):
             assert_allclose(jp.array(d1).numpy(), d2)
-
 
     def test_py2java_array(self, java_sc, py_sc):
         data = [np.random.random((32, 20)) for _ in range(100)]
@@ -86,13 +82,13 @@ class TestSparkConverters(object):
         assert len(data) == len(data2)
 
         for d1, d2 in zip(data, data2):
-            assert_allclose(jp.array(d1.getFeatures()).numpy(), d2.features.numpy())
+            assert_allclose(jp.array(d1.getFeatures()).numpy(),
+                            d2.features.numpy())
 
     def test_py2java_array(self, java_sc, py_sc):
         data = [np.random.random((32, 20)) for _ in range(100)]
         jdata = [jp.array(x) for x in data]  # required
         data = [Dataset(x, x) for x in data]
-        
 
         py_rdd = py_sc.parallelize(data)
         java_rdd = py2javaDatasetRDD(py_rdd, java_sc)
@@ -103,7 +99,6 @@ class TestSparkConverters(object):
         for d1, d2 in zip(data, data2):
             d2 = jp.array(d2.getFeatures()).numpy()
             assert_allclose(d1.features.numpy(), d2)
-
 
 
 if __name__ == '__main__':
