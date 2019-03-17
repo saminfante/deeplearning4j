@@ -16,7 +16,7 @@
  * SPDX-License-Identifier: Apache-2.0
  ******************************************************************************/
 
-@Library('skymind@bugfix/maven-local-cache') _
+@Library('skymind@feature/switch-to-new-docker-images') _
 
 /*
     To redefine some job/run parameters,
