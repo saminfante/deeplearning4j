@@ -16,7 +16,7 @@
  * SPDX-License-Identifier: Apache-2.0
  ******************************************************************************/
 
-@Library('skymind@feature/switch-to-new-docker-images') _
+@Library('skymind@bugfix/avx512') _
 
 /*
     To redefine some job/run parameters,
