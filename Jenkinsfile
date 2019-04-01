@@ -16,7 +16,7 @@
  * SPDX-License-Identifier: Apache-2.0
  ******************************************************************************/
 
-@Library('skymind@bugfix/avx512') _
+@Library('skymind@feature/refactor') _
 
 /*
     To redefine some job/run parameters,
