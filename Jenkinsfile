@@ -16,7 +16,7 @@
  * SPDX-License-Identifier: Apache-2.0
  ******************************************************************************/
 
-@Library('skymind@feature/refactor') _
+@Library('skymind@feature/add-build-params-for-release') _
 
 /*
     To redefine some job/run parameters,
