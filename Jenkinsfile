@@ -16,7 +16,7 @@
  * SPDX-License-Identifier: Apache-2.0
  ******************************************************************************/
 
-@Library('skymind@feature/add-build-params-for-release') _
+@Library('skymind@bugfix/dl4j-tests') _
 
 /*
     To redefine some job/run parameters,
