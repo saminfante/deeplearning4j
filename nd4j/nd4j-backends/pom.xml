@@ -39,6 +39,12 @@
         <profile>
             <id>testresources</id>
         </profile>
+        <profile>
+            <id>nd4j-tests</id>
+            <modules>
+                <module>nd4j-tests</module>
+            </modules>
+        </profile>
     </profiles>
 
 </project>
