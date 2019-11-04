@@ -515,7 +515,7 @@
         <dependency>
             <groupId>org.webjars.npm</groupId>
             <artifactId>flatbuffers</artifactId>
-            <version>1.9.0</version>
+            <version>1.10.2</version>
         </dependency>
 
         <!-- Workaround for Java 9+ -->
