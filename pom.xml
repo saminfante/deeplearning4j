@@ -354,7 +354,7 @@
         <threadly.version>4.10.0</threadly.version>
 
         <flatbuffers.version>1.10.0</flatbuffers.version>
-        <grpc.version>1.14.0</grpc.version>
+        <grpc.version>1.25.0</grpc.version>
         <javax.version>1.2</javax.version>
         <jaxb.version>2.3.0</jaxb.version>
 
