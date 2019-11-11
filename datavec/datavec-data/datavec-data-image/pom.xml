@@ -109,7 +109,7 @@
         <dependency>
             <groupId>org.bytedeco</groupId>
             <artifactId>leptonica-platform</artifactId>
-            <version>${leptonica.version}-${javacpp-presets.version}</version>
+            <version>${leptonica.version}</version>
         </dependency>
 
         <dependency>
