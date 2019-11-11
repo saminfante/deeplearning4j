@@ -311,7 +311,7 @@
         <commonsmath.version>3.5</commonsmath.version>
         <commonslang.version>3.6</commonslang.version>
         <commonsio.version>2.5</commonsio.version>
-        <commons-codec.version>1.10</commons-codec.version>
+        <commons-codec.version>1.13</commons-codec.version>
         <commons.math.version>${commonsmath.version}</commons.math.version>
         <commons.lang.version>${commonslang.version}</commons.lang.version>
         <commons.io.version>${commonsio.version}</commons.io.version>
