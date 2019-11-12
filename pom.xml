@@ -310,7 +310,7 @@
         <commons-compress.version>1.16.1</commons-compress.version>
         <commonsmath.version>3.5</commonsmath.version>
         <commonslang.version>3.6</commonslang.version>
-        <commonsio.version>2.5</commonsio.version>
+        <commonsio.version>2.6</commonsio.version>
         <commons-codec.version>1.10</commons-codec.version>
         <commons.math.version>${commonsmath.version}</commons.math.version>
         <commons.lang.version>${commonslang.version}</commons.lang.version>
@@ -320,7 +320,7 @@
         <commons-lang3.version>${commonslang.version}</commons-lang3.version>
         <commons-logging.version>1.2</commons-logging.version>
         <commons-net.version>3.1</commons-net.version>
-        <commons-io.version>${commonsio.version}</commons-io.version>
+        <commons-io.version>2.6</commons-io.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <commons-collections4.version>4.1</commons-collections4.version>
 
