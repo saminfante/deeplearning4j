@@ -276,7 +276,7 @@
         <opencsv.version>2.3</opencsv.version>
         <tdigest.version>3.2</tdigest.version>
         <jtransforms.version>3.1</jtransforms.version>
-        <fastutil.version>6.5.7</fastutil.version>
+        <fastutil.version>8.3.0</fastutil.version>
         <unirest.version>1.4.9</unirest.version>
         <reflections.version>0.9.10</reflections.version>
 
