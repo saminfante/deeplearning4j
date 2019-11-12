@@ -288,7 +288,7 @@
         <javacpp.platform.extension/> <!-- -Djavacpp.platform.extension=-avx512 -->
         <javacpp.platform.properties>${javacpp.platform}</javacpp.platform.properties>
 
-        <javacpp.version>1.5</javacpp.version>
+        <javacpp.version>1.5.2</javacpp.version>
         <javacpp-presets.version>1.5</javacpp-presets.version>
         <javacv.version>1.5</javacv.version>
 
