@@ -49,7 +49,7 @@
 
         <scala.macros.version>2.1.0</scala.macros.version>
         <!-- Default scala versions, may be overwritten by build profiles -->
-        <scala.version>2.11.12</scala.version>
+        <scala.version>2.13.1</scala.version>
         <scala.binary.version>2.11</scala.binary.version>
     </properties>
 
