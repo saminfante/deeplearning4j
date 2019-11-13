@@ -110,7 +110,7 @@
         <dependency>
             <groupId>com.github.julien-truffaut</groupId>
             <artifactId>monocle-core_${scala.binary.version}</artifactId>
-            <version>1.4.0</version>
+            <version>1.5.1-cats</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
