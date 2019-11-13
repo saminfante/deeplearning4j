@@ -293,7 +293,7 @@
         <javacv.version>1.5</javacv.version>
 
         <python.version>3.6</python.version>
-        <cpython-platform.version>${python.version}-${javacpp-presets.version}</cpython-platform.version>
+        <cpython-platform.version>3.7.5-1.5.2</cpython-platform.version>
 
         <openblas.version>0.3.5</openblas.version>
         <mkl.version>2019.3</mkl.version>
