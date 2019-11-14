@@ -242,7 +242,7 @@
         <janino.version>2.7.8</janino.version>
         <javassist.version>3.19.0-GA</javassist.version>
         <jaxb.version>2.2.11</jaxb.version>
-        <jets3t.version>0.7.1</jets3t.version>
+        <jets3t.version>0.9.4</jets3t.version>
         <jetty.version>9.4.10.v20180503</jetty.version>
         <jsch.version>0.1.51</jsch.version>
         <leveldb.version>1.8</leveldb.version>
