@@ -371,7 +371,7 @@
         <maven-git-commit-id-plugin.version>${maven-git-commit-plugin.version}
         </maven-git-commit-id-plugin.version>
         <maven-build-helper-plugin.version>3.0.0</maven-build-helper-plugin.version>
-        <maven-play2-plugin.version>1.0.0-beta5</maven-play2-plugin.version>
+        <maven-play2-plugin.version>1.0.0-rc5</maven-play2-plugin.version>
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
         <maven-surefire.version>${maven-surefire-plugin.version}</maven-surefire.version>
         <maven-enforcer-plugin.version>1.4.1</maven-enforcer-plugin.version>
