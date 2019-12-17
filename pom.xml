@@ -325,7 +325,7 @@
         <commons-collections4.version>4.1</commons-collections4.version>
 
         <args4j.version>2.0.29</args4j.version>
-        <slf4j.version>1.7.21</slf4j.version>
+        <slf4j.version>1.7.30</slf4j.version>
         <junit.version>4.12</junit.version>
         <logback.version>1.2.3</logback.version>
         <jackson.version>2.5.1</jackson.version>
