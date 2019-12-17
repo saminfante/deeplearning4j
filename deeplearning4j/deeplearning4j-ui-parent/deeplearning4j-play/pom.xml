@@ -296,7 +296,7 @@
             <groupId>org.slf4j</groupId>
             <artifactId>jul-to-slf4j</artifactId>    <!-- Version set by deeplearning4j-parent dependency management -->
             <scope>compile</scope>
-            <version>1.7.21</version>
+            <version>1.7.30</version>
         </dependency>
 
         <!-- Test Scope Dependencies -->
