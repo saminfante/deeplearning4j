@@ -278,7 +278,7 @@
         <jtransforms.version>3.1</jtransforms.version>
         <fastutil.version>6.5.7</fastutil.version>
         <unirest.version>1.4.9</unirest.version>
-        <reflections.version>0.9.10</reflections.version>
+        <reflections.version>0.9.12</reflections.version>
 
         <javacpp.parser.skip>false</javacpp.parser.skip>     <!-- To skip header file parsing phase: -Djavacpp.parser.skip=true  -->
         <javacpp.compiler.skip>false</javacpp.compiler.skip> <!-- To skip native compilation phase: -Djavacpp.compiler.skip=true -->
