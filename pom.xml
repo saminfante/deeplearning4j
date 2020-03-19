@@ -240,7 +240,7 @@
         <httpcore.version>4.4.6</httpcore.version>
         <httpmime.version>4.5.10</httpmime.version>
         <janino.version>2.7.8</janino.version>
-        <javassist.version>3.19.0-GA</javassist.version>
+        <javassist.version>3.27.0-GA</javassist.version>
         <jaxb.version>2.2.11</jaxb.version>
         <jets3t.version>0.7.1</jets3t.version>
         <jetty.version>9.4.10.v20180503</jetty.version>
