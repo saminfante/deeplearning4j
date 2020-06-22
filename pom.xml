@@ -370,7 +370,7 @@
         <maven-git-commit-plugin.version>2.2.2</maven-git-commit-plugin.version>
         <maven-git-commit-id-plugin.version>${maven-git-commit-plugin.version}
         </maven-git-commit-id-plugin.version>
-        <maven-build-helper-plugin.version>3.0.0</maven-build-helper-plugin.version>
+        <maven-build-helper-plugin.version>3.2.0</maven-build-helper-plugin.version>
         <maven-play2-plugin.version>1.0.0-beta5</maven-play2-plugin.version>
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
         <maven-surefire.version>${maven-surefire-plugin.version}</maven-surefire.version>
@@ -786,7 +786,7 @@
                     <plugin>
                         <groupId>org.codehaus.mojo</groupId>
                         <artifactId>build-helper-maven-plugin</artifactId>
-                        <version>1.7</version>
+                        <version>3.2.0</version>
                         <executions>
                             <execution>
                                 <id>remove-old-artifacts</id>
