@@ -30,7 +30,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <kuromoji.version>0.9.0</kuromoji.version>
-        <randomizedtesting.version>2.1.16</randomizedtesting.version>
+        <randomizedtesting.version>2.7.8</randomizedtesting.version>
     </properties>
 
     <dependencies>
