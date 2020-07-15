@@ -258,7 +258,7 @@
         <spring.version>5.1.1.RELEASE</spring.version>
         <t-digest.version>3.2</t-digest.version>
 
-        <oshi.version>3.4.2</oshi.version>
+        <oshi.version>3.13.6</oshi.version>
         <kafka.version>0.8.2.2</kafka.version>
         <akka.version>2.3.16</akka.version>
         <typesafe.config.version>1.3.0</typesafe.config.version> <!-- Play requires 1.3.0 -->
