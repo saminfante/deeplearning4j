@@ -238,7 +238,7 @@
         <hppc.version>0.8.1</hppc.version>
         <httpclient.version>4.5.3</httpclient.version>
         <httpcore.version>4.4.6</httpcore.version>
-        <httpmime.version>4.5.10</httpmime.version>
+        <httpmime.version>4.5.13</httpmime.version>
         <janino.version>2.7.8</janino.version>
         <javassist.version>3.19.0-GA</javassist.version>
         <jaxb.version>2.2.11</jaxb.version>
