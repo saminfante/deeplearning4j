@@ -55,7 +55,7 @@
         <dependency>
             <groupId>org.nutz</groupId>
             <artifactId>nutz</artifactId>
-            <version>1.r.58</version>
+            <version>1.r.68.v20201205</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
