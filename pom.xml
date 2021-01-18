@@ -267,7 +267,7 @@
         <dropwizard.version>0.8.0</dropwizard.version>
         <jodatime.version>2.2</jodatime.version>
         <protonpack.version>1.15</protonpack.version>
-        <poi.version>3.17</poi.version>
+        <poi.version>5.0.0</poi.version>
         <play.version>2.4.8</play.version>
         <jodah.typetools.version>0.5.0</jodah.typetools.version>
         <freemarker.version>2.3.23</freemarker.version>
