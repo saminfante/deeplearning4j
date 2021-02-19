@@ -319,7 +319,7 @@
         <commons-lang.version>2.6</commons-lang.version>
         <commons-lang3.version>${commonslang.version}</commons-lang3.version>
         <commons-logging.version>1.2</commons-logging.version>
-        <commons-net.version>3.1</commons-net.version>
+        <commons-net.version>3.8.0</commons-net.version>
         <commons-io.version>${commonsio.version}</commons-io.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <commons-collections4.version>4.1</commons-collections4.version>
