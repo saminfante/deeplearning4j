@@ -382,7 +382,7 @@
         </maven-lifecycle-mapping.version>
         <maven-shade-plugin.version>3.2.1</maven-shade-plugin.version>
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
-        <mockito.version>2.2.6</mockito.version>
+        <mockito.version>3.8.0</mockito.version>
 
         <!-- base versions -->
         <!-- Scala 2.10.x -->
