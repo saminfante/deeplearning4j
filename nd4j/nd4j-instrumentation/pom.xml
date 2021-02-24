@@ -30,7 +30,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <dropwizard.version>0.8.0</dropwizard.version>
+        <dropwizard.version>2.0.20</dropwizard.version>
     </properties>
 
     <dependencies>
