@@ -27,7 +27,7 @@
 
     <properties>
         <!-- CUDA version is linked with the artifact name so cannot move to parent pom.xml -->
-        <cuda.version>10.1</cuda.version>
+        <cuda.version>11.2-8.1-1.5.5</cuda.version>
         <cudnn.version>7.5</cudnn.version>
         <javacpp-presets.cuda.version>1.5</javacpp-presets.cuda.version>
         <nd4j.backend>nd4j-cuda-${cuda.version}</nd4j.backend>
@@ -37,7 +37,7 @@
         <dependency>
             <groupId>org.bytedeco</groupId>
             <artifactId>cuda-platform</artifactId>
-            <version>${cuda.version}-${cudnn.version}-${javacpp-presets.cuda.version}</version>
+            <version>${cuda.version}</version>
         </dependency>
 
         <dependency>
