@@ -336,7 +336,7 @@
         <cleartk.version>2.0.0</cleartk.version>
         <lucene-solr.version>7.7.1</lucene-solr.version>
         <json.version>20131018</json.version>
-        <google.protobuf.version>2.6.1</google.protobuf.version>
+        <google.protobuf.version>3.15.6</google.protobuf.version>
         <failIfNoTests>false</failIfNoTests>
         <hadoop.version>2.2.0
         </hadoop.version>  <!-- Hadoop version used by Spark 1.6.3 and 2.2.1 (and likely others) -->
